@@ -30,6 +30,7 @@ src/
 ├── services/ # Firebase service logic
 ├── store/ # Global state/store (optional)
 └── App.tsx # App entry component
+```
 
 ---
 
@@ -50,7 +51,7 @@ npm run dev
 
 # Build for production
 npm run build
-
+```
 
 ## ✅ Todo
 
