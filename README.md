@@ -17,7 +17,7 @@ Ideal for starting modern web applications with authentication built-in.
 ---
 
 ## 📂 Project Structure
-<<<<<<< HEAD
+
 ```bash
 src/
 ├── api/ # API abstraction layer (optional)
@@ -32,8 +32,6 @@ src/
 ├── store/ # Global state/store (optional)
 └── App.tsx # App entry component
 ```
-
----
 
 =======
 
