@@ -35,20 +35,6 @@ src/
 
 =======
 
-```bash
-src/
-├── api/           # API abstraction layer (optional)
-├── assets/        # Static files & media
-├── components/    # Reusable components
-│   ├── Auth/      # Login/Register components
-│   └── User/      # UserForm, UserList
-├── hooks/         # Custom React hooks
-├── models/        # TypeScript types/interfaces
-├── pages/         # Page-level components (LoginPage, HomePage, etc.)
-├── services/      # Firebase service logic
-├── store/         # Global state/store (optional)
-└── App.tsx        # App entry component
-```
 
 ## 🚀 Getting Started
 
