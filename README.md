@@ -17,7 +17,7 @@ Ideal for starting modern web applications with authentication built-in.
 ---
 
 ## 📂 Project Structure
-
+```bash
 src/
 ├── api/ # API abstraction layer (optional)
 ├── assets/ # Static files & media
@@ -52,12 +52,12 @@ npm run dev
 npm run build
 
 
-✅ Todo
+## ✅ Todo
 
 ✅ Login & Register pages
 ✅ Firebase integration
 ✅ Routing with React Router
 ✅ Responsive design improvements
 
-📝 License
+## 📝 License
 MIT © 2025 — @ezarelz
