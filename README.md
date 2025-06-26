@@ -72,8 +72,6 @@ npm run dev
 npm run build
 ```
 
-<<<<<<< HEAD
-## ✅ Todo
 =======
 ### 🔐 Firebase Setup
 
@@ -103,18 +101,12 @@ measurementId: 'YOUR_MEASUREMENT_ID',
 ```
 
 ### ✅ Current Features
->>>>>>> 9c370f7 (docs: update README with project setup and Firebase instructions)
 
 ✅ Login & Register pages
 ✅ Firebase integration
 ✅ Routing with React Router
 ✅ Responsive design improvements
 
-<<<<<<< HEAD
 ## 📝 License
-MIT © 2025 — @ezarelz
+MIT © 2025 - https://github.com/ezarelz
 =======
-### 📝 License
-
-MIT © 2025 — https://github.com/ezarelz
->>>>>>> 9c370f7 (docs: update README with project setup and Firebase instructions)
