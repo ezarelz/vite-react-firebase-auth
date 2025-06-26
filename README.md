@@ -85,11 +85,11 @@ measurementId: 'YOUR_MEASUREMENT_ID',
 
 ### ✅ Current Features
 
-✅ Login & Register pages
-✅ Firebase integration
-✅ Routing with React Router
-✅ Responsive design improvements
+# ✅ Login & Register pages
+# ✅ Firebase integration
+# ✅ Routing with React Router
+# ✅ Responsive design improvements
 
 ## 📝 License
-MIT © 2025 — https://github.com/ezarelz
+# MIT © 2025 — https://github.com/ezarelz
 =======
