@@ -50,7 +50,6 @@ src/
 └── App.tsx        # App entry component
 ```
 
->>>>>>> 9c370f7 (docs: update README with project setup and Firebase instructions)
 ## 🚀 Getting Started
 
 ```bash
