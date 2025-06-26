@@ -91,5 +91,5 @@ measurementId: 'YOUR_MEASUREMENT_ID',
 ✅ Responsive design improvements
 
 ## 📝 License
-MIT © 2025 - https://github.com/ezarelz
+MIT © 2025 — https://github.com/ezarelz
 =======
