@@ -17,6 +17,7 @@ Ideal for starting modern web applications with authentication built-in.
 ---
 
 ## 📂 Project Structure
+<<<<<<< HEAD
 ```bash
 src/
 ├── api/ # API abstraction layer (optional)
@@ -34,6 +35,24 @@ src/
 
 ---
 
+=======
+
+```bash
+src/
+├── api/           # API abstraction layer (optional)
+├── assets/        # Static files & media
+├── components/    # Reusable components
+│   ├── Auth/      # Login/Register components
+│   └── User/      # UserForm, UserList
+├── hooks/         # Custom React hooks
+├── models/        # TypeScript types/interfaces
+├── pages/         # Page-level components (LoginPage, HomePage, etc.)
+├── services/      # Firebase service logic
+├── store/         # Global state/store (optional)
+└── App.tsx        # App entry component
+```
+
+>>>>>>> 9c370f7 (docs: update README with project setup and Firebase instructions)
 ## 🚀 Getting Started
 
 ```bash
@@ -53,12 +72,49 @@ npm run dev
 npm run build
 ```
 
+<<<<<<< HEAD
 ## ✅ Todo
+=======
+### 🔐 Firebase Setup
+
+This project uses Firebase Authentication (Email/Password) out of the box.
+
+To make it work with your own Firebase project:
+
+1. Go to Firebase Console and create a new project.
+2. Enable Email/Password authentication in the Authentication > Sign-in method tab.
+3. Copy your Firebase credentials (API key, Auth domain, etc).
+4. Replace the firebaseConfig object in src/firebaseConfig.ts with your own project config.
+
+Example:
+
+```bash
+// src/firebaseConfig.ts
+const firebaseConfig = {
+apiKey: 'YOUR_API_KEY',
+authDomain: 'your-app.firebaseapp.com',
+projectId: 'your-app',
+storageBucket: 'your-app.appspot.com',
+messagingSenderId: 'YOUR_MESSAGING_ID',
+appId: 'YOUR_APP_ID',
+measurementId: 'YOUR_MEASUREMENT_ID',
+};
+
+```
+
+### ✅ Current Features
+>>>>>>> 9c370f7 (docs: update README with project setup and Firebase instructions)
 
 ✅ Login & Register pages
 ✅ Firebase integration
 ✅ Routing with React Router
 ✅ Responsive design improvements
 
+<<<<<<< HEAD
 ## 📝 License
 MIT © 2025 — @ezarelz
+=======
+### 📝 License
+
+MIT © 2025 — https://github.com/ezarelz
+>>>>>>> 9c370f7 (docs: update README with project setup and Firebase instructions)
