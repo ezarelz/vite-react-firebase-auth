@@ -70,7 +70,9 @@ To make it work with your own Firebase project:
 Example:
 
 ```bash
-// src/firebaseConfig.ts
+Folder // src/firebaseConfig.ts
+
+// Konfigurasi Firebase Project
 const firebaseConfig = {
 apiKey: 'YOUR_API_KEY',
 authDomain: 'your-app.firebaseapp.com',
